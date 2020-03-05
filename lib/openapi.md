@@ -12,9 +12,9 @@ Auto generated using Swagger Inspector
 
 ##### Responses
 
-| Code | Description |
-| ---- | ----------- |
-| 200 | Auto generated using Swagger Inspector |
+| Code | Description                                                                                                                                                                                                                                                                               |
+| ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 200           | Auto generated using Swagger Inspector |
 
 ### /character/status/bad
 
