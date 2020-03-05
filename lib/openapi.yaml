@@ -1,0 +1,167 @@
+openapi: 3.0.1
+info:
+  title: defaultTitle
+  description: defaultDescription
+  version: "0.1"
+servers:
+- url: http://localhost:4000
+paths:
+  /character/Iron Man:
+    get:
+      description: Auto generated using Swagger Inspector
+      responses:
+        "200":
+          description: Auto generated using Swagger Inspector
+          content:
+            application/json; charset=utf-8:
+              schema:
+                type: string
+              examples: {}
+      servers:
+      - url: http://localhost:4000
+    servers:
+    - url: http://localhost:4000
+  /character/status/bad:
+    get:
+      description: Auto generated using Swagger Inspector
+      responses:
+        "200":
+          description: Auto generated using Swagger Inspector
+      servers:
+      - url: http://localhost:4000
+    servers:
+    - url: http://localhost:4000
+  /character/gender/Male:
+    get:
+      description: Auto generated using Swagger Inspector
+      responses:
+        "200":
+          description: Auto generated using Swagger Inspector
+      servers:
+      - url: http://localhost:4000
+    servers:
+    - url: http://localhost:4000
+  /character/gender/Female:
+    get:
+      description: Auto generated using Swagger Inspector
+      responses:
+        "200":
+          description: Auto generated using Swagger Inspector
+      servers:
+      - url: http://localhost:4000
+    servers:
+    - url: http://localhost:4000
+  /character/publisher/Marvel Comics:
+    get:
+      description: Auto generated using Swagger Inspector
+      responses:
+        "200":
+          description: Auto generated using Swagger Inspector
+      servers:
+      - url: http://localhost:4000
+    servers:
+    - url: http://localhost:4000
+  /character/status/good:
+    get:
+      description: Auto generated using Swagger Inspector
+      responses:
+        "200":
+          description: Auto generated using Swagger Inspector
+      servers:
+      - url: http://localhost:4000
+    servers:
+    - url: http://localhost:4000
+  /character/publisher/DC Comics:
+    get:
+      description: Auto generated using Swagger Inspector
+      responses:
+        "200":
+          description: Auto generated using Swagger Inspector
+      servers:
+      - url: http://localhost:4000
+    servers:
+    - url: http://localhost:4000
+  /character/:
+    get:
+      description: Auto generated using Swagger Inspector
+      responses:
+        "200":
+          description: Auto generated using Swagger Inspector
+      servers:
+      - url: http://localhost:4000
+    post:
+      description: Auto generated using Swagger Inspector
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/body'
+            examples:
+              "0":
+                value: |-
+                  {
+                          "Name": "Super Coder",
+                          "Alignment": "bad",
+                          "Gender": "Male",
+                          "Race": "Human",
+                          "Publisher": "GA",
+                          "Powers": {
+                              "_id": "5e6039cdc791e4a3f8e548e6",
+                              "Name": "Super Coder",
+                              "Hacking": true,
+                              "Identity Stealing": true,
+                              "iCloud Thief": true
+                  }
+                  }
+      responses:
+        "200":
+          description: Auto generated using Swagger Inspector
+          content:
+            application/json; charset=utf-8:
+              schema:
+                type: string
+              examples: {}
+      servers:
+      - url: http://localhost:4000
+    servers:
+    - url: http://localhost:4000
+  /character/race/Mutant:
+    get:
+      description: Auto generated using Swagger Inspector
+      responses:
+        "200":
+          description: Auto generated using Swagger Inspector
+      servers:
+      - url: http://localhost:4000
+    servers:
+    - url: http://localhost:4000
+components:
+  schemas:
+    character_Powers:
+      type: object
+      properties:
+        iCloud Thief:
+          type: boolean
+        Identity Stealing:
+          type: boolean
+        _id:
+          type: string
+        Hacking:
+          type: boolean
+        Name:
+          type: string
+    body:
+      type: object
+      properties:
+        Alignment:
+          type: string
+        Race:
+          type: string
+        Powers:
+          $ref: '#/components/schemas/character_Powers'
+        Gender:
+          type: string
+        Publisher:
+          type: string
+        Name:
+          type: string
