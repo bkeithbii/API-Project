@@ -2,7 +2,7 @@
   {
     "ID": 0,
     "Name": "A-Bomb",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "yellow",
     "Race": "Human",
@@ -15,7 +15,7 @@
   {
     "ID": 1,
     "Name": "Abe Sapien",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Icthyo Sapien",
@@ -28,7 +28,7 @@
   {
     "ID": 2,
     "Name": "Abin Sur",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Ungaran",
@@ -41,7 +41,7 @@
   {
     "ID": 3,
     "Name": "Abomination",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "green",
     "Race": "Human / Radiation",
@@ -54,7 +54,7 @@
   {
     "ID": 4,
     "Name": "Abraxas",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Cosmic Entity",
@@ -67,7 +67,7 @@
   {
     "ID": 5,
     "Name": "Absorbing Man",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Human",
@@ -80,7 +80,7 @@
   {
     "ID": 6,
     "Name": "Adam Monroe",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -93,7 +93,7 @@
   {
     "ID": 7,
     "Name": "Adam Strange",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Human",
@@ -106,7 +106,7 @@
   {
     "ID": 8,
     "Name": "Agent 13",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -119,7 +119,7 @@
   {
     "ID": 9,
     "Name": "Agent Bob",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Human",
@@ -132,7 +132,7 @@
   {
     "ID": 10,
     "Name": "Agent Zero",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -145,7 +145,7 @@
   {
     "ID": 11,
     "Name": "Air-Walker",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -158,7 +158,7 @@
   {
     "ID": 12,
     "Name": "Ajax",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Cyborg",
@@ -171,7 +171,7 @@
   {
     "ID": 13,
     "Name": "Alan Scott",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -184,7 +184,7 @@
   {
     "ID": 14,
     "Name": "Alex Mercer",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Human",
@@ -197,7 +197,7 @@
   {
     "ID": 15,
     "Name": "Alex Woolsly",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -210,7 +210,7 @@
   {
     "ID": 16,
     "Name": "Alfred Pennyworth",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Human",
@@ -223,7 +223,7 @@
   {
     "ID": 17,
     "Name": "Alien",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Xenomorph XX121",
@@ -236,7 +236,7 @@
   {
     "ID": 18,
     "Name": "Allan Quatermain",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -249,7 +249,7 @@
   {
     "ID": 19,
     "Name": "Amazo",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "red",
     "Race": "Android",
@@ -262,7 +262,7 @@
   {
     "ID": 20,
     "Name": "Ammo",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Human",
@@ -275,7 +275,7 @@
   {
     "ID": 21,
     "Name": "Ando Masahashi",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -288,7 +288,7 @@
   {
     "ID": 22,
     "Name": "Angel",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -301,7 +301,7 @@
   {
     "ID": 23,
     "Name": "Angel",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Vampire",
@@ -314,7 +314,7 @@
   {
     "ID": 24,
     "Name": "Angel Dust",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "yellow",
     "Race": "Mutant",
@@ -327,7 +327,7 @@
   {
     "ID": 25,
     "Name": "Angel Salvadore",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "brown",
     "Race": "Unknown",
@@ -340,7 +340,7 @@
   {
     "ID": 26,
     "Name": "Angela",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Female",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -353,7 +353,7 @@
   {
     "ID": 27,
     "Name": "Animal Man",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Human",
@@ -366,7 +366,7 @@
   {
     "ID": 28,
     "Name": "Annihilus",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "green",
     "Race": "Unknown",
@@ -379,7 +379,7 @@
   {
     "ID": 29,
     "Name": "Ant-Man",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Human",
@@ -392,7 +392,7 @@
   {
     "ID": 30,
     "Name": "Ant-Man II",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Human",
@@ -405,7 +405,7 @@
   {
     "ID": 31,
     "Name": "Anti-Monitor",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "yellow",
     "Race": "God / Eternal",
@@ -418,7 +418,7 @@
   {
     "ID": 32,
     "Name": "Anti-Spawn",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -444,7 +444,7 @@
   {
     "ID": 34,
     "Name": "Apocalypse",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "red",
     "Race": "Mutant",
@@ -457,7 +457,7 @@
   {
     "ID": 35,
     "Name": "Aquababy",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -470,7 +470,7 @@
   {
     "ID": 36,
     "Name": "Aqualad",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Atlantean",
@@ -483,7 +483,7 @@
   {
     "ID": 37,
     "Name": "Aquaman",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Atlantean",
@@ -496,7 +496,7 @@
   {
     "ID": 38,
     "Name": "Arachne",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Human",
@@ -509,7 +509,7 @@
   {
     "ID": 39,
     "Name": "Archangel",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Mutant",
@@ -522,7 +522,7 @@
   {
     "ID": 40,
     "Name": "Arclight",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Female",
     "EyeColor": "violet",
     "Race": "Unknown",
@@ -535,7 +535,7 @@
   {
     "ID": 41,
     "Name": "Ardina",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "white",
     "Race": "Alien",
@@ -548,7 +548,7 @@
   {
     "ID": 42,
     "Name": "Ares",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Unknown",
@@ -561,7 +561,7 @@
   {
     "ID": 43,
     "Name": "Ariel",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "purple",
     "Race": "Unknown",
@@ -574,7 +574,7 @@
   {
     "ID": 44,
     "Name": "Armor",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "black",
     "Race": "Unknown",
@@ -587,7 +587,7 @@
   {
     "ID": 45,
     "Name": "Arsenal",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Human",
@@ -600,7 +600,7 @@
   {
     "ID": 46,
     "Name": "Astro Boy",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Unknown",
@@ -613,7 +613,7 @@
   {
     "ID": 47,
     "Name": "Atlas",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Mutant",
@@ -626,7 +626,7 @@
   {
     "ID": 48,
     "Name": "Atlas",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "God / Eternal",
@@ -639,7 +639,7 @@
   {
     "ID": 49,
     "Name": "Atom",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -652,7 +652,7 @@
   {
     "ID": 50,
     "Name": "Atom",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -665,7 +665,7 @@
   {
     "ID": 51,
     "Name": "Atom Girl",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "black",
     "Race": "Unknown",
@@ -678,7 +678,7 @@
   {
     "ID": 52,
     "Name": "Atom II",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Human",
@@ -691,7 +691,7 @@
   {
     "ID": 53,
     "Name": "Atom III",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -704,7 +704,7 @@
   {
     "ID": 54,
     "Name": "Atom IV",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Unknown",
@@ -717,7 +717,7 @@
   {
     "ID": 55,
     "Name": "Aurora",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Mutant",
@@ -730,7 +730,7 @@
   {
     "ID": 56,
     "Name": "Azazel",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "yellow",
     "Race": "Neyaphem",
@@ -743,7 +743,7 @@
   {
     "ID": 57,
     "Name": "Azrael",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Human",
@@ -756,7 +756,7 @@
   {
     "ID": 58,
     "Name": "Aztar",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -769,7 +769,7 @@
   {
     "ID": 59,
     "Name": "Bane",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Human",
@@ -782,7 +782,7 @@
   {
     "ID": 60,
     "Name": "Banshee",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "green",
     "Race": "Human",
@@ -795,7 +795,7 @@
   {
     "ID": 61,
     "Name": "Bantam",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Unknown",
@@ -808,7 +808,7 @@
   {
     "ID": 62,
     "Name": "Batgirl",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -821,7 +821,7 @@
   {
     "ID": 63,
     "Name": "Batgirl",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "green",
     "Race": "Human",
@@ -834,7 +834,7 @@
   {
     "ID": 64,
     "Name": "Batgirl III",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -847,7 +847,7 @@
   {
     "ID": 65,
     "Name": "Batgirl IV",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "green",
     "Race": "Human",
@@ -860,7 +860,7 @@
   {
     "ID": 66,
     "Name": "Batgirl V",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -873,7 +873,7 @@
   {
     "ID": 67,
     "Name": "Batgirl VI",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -886,7 +886,7 @@
   {
     "ID": 68,
     "Name": "Batman",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Human",
@@ -899,7 +899,7 @@
   {
     "ID": 69,
     "Name": "Batman",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Human",
@@ -912,7 +912,7 @@
   {
     "ID": 70,
     "Name": "Batman II",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Human",
@@ -925,7 +925,7 @@
   {
     "ID": 71,
     "Name": "Battlestar",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Unknown",
@@ -938,7 +938,7 @@
   {
     "ID": 72,
     "Name": "Batwoman V",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "green",
     "Race": "Human",
@@ -951,7 +951,7 @@
   {
     "ID": 73,
     "Name": "Beak",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "black",
     "Race": "Unknown",
@@ -964,7 +964,7 @@
   {
     "ID": 74,
     "Name": "Beast",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Mutant",
@@ -977,7 +977,7 @@
   {
     "ID": 75,
     "Name": "Beast Boy",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "green",
     "Race": "Human",
@@ -990,7 +990,7 @@
   {
     "ID": 76,
     "Name": "Beetle",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -1003,7 +1003,7 @@
   {
     "ID": 77,
     "Name": "Ben 10",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -1016,7 +1016,7 @@
   {
     "ID": 78,
     "Name": "Beta Ray Bill",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -1029,7 +1029,7 @@
   {
     "ID": 79,
     "Name": "Beyonder",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "God / Eternal",
@@ -1042,7 +1042,7 @@
   {
     "ID": 80,
     "Name": "Big Barda",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "New God",
@@ -1055,7 +1055,7 @@
   {
     "ID": 81,
     "Name": "Big Daddy",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -1068,7 +1068,7 @@
   {
     "ID": 82,
     "Name": "Big Man",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -1081,7 +1081,7 @@
   {
     "ID": 83,
     "Name": "Bill Harken",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Alpha",
@@ -1094,7 +1094,7 @@
   {
     "ID": 84,
     "Name": "Billy Kincaid",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -1107,7 +1107,7 @@
   {
     "ID": 85,
     "Name": "Binary",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -1120,7 +1120,7 @@
   {
     "ID": 86,
     "Name": "Bionic Woman",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Cyborg",
@@ -1133,7 +1133,7 @@
   {
     "ID": 87,
     "Name": "Bird-Brain",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Unknown",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -1146,7 +1146,7 @@
   {
     "ID": 88,
     "Name": "Bird-Man",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Human",
@@ -1159,7 +1159,7 @@
   {
     "ID": 89,
     "Name": "Bird-Man II",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Human",
@@ -1172,7 +1172,7 @@
   {
     "ID": 90,
     "Name": "Birdman",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "God / Eternal",
@@ -1185,7 +1185,7 @@
   {
     "ID": 91,
     "Name": "Bishop",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Mutant",
@@ -1211,7 +1211,7 @@
   {
     "ID": 93,
     "Name": "Black Abbott",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "red",
     "Race": "Unknown",
@@ -1224,7 +1224,7 @@
   {
     "ID": 94,
     "Name": "Black Adam",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Unknown",
@@ -1237,7 +1237,7 @@
   {
     "ID": 95,
     "Name": "Black Bolt",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Inhuman",
@@ -1250,7 +1250,7 @@
   {
     "ID": 96,
     "Name": "Black Canary",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Human",
@@ -1263,7 +1263,7 @@
   {
     "ID": 97,
     "Name": "Black Canary",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Metahuman",
@@ -1276,7 +1276,7 @@
   {
     "ID": 98,
     "Name": "Black Cat",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "green",
     "Race": "Human",
@@ -1302,7 +1302,7 @@
   {
     "ID": 100,
     "Name": "Black Goliath",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -1315,7 +1315,7 @@
   {
     "ID": 101,
     "Name": "Black Knight III",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Human",
@@ -1328,7 +1328,7 @@
   {
     "ID": 102,
     "Name": "Black Lightning",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Unknown",
@@ -1341,7 +1341,7 @@
   {
     "ID": 103,
     "Name": "Black Mamba",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Female",
     "EyeColor": "green",
     "Race": "Unknown",
@@ -1354,7 +1354,7 @@
   {
     "ID": 104,
     "Name": "Black Manta",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "black",
     "Race": "Human",
@@ -1367,7 +1367,7 @@
   {
     "ID": 105,
     "Name": "Black Panther",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Human",
@@ -1380,7 +1380,7 @@
   {
     "ID": 106,
     "Name": "Black Widow",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "green",
     "Race": "Human",
@@ -1393,7 +1393,7 @@
   {
     "ID": 107,
     "Name": "Black Widow II",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -1406,7 +1406,7 @@
   {
     "ID": 108,
     "Name": "Blackout",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "red",
     "Race": "Demon",
@@ -1419,7 +1419,7 @@
   {
     "ID": 109,
     "Name": "Blackwing",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -1445,7 +1445,7 @@
   {
     "ID": 111,
     "Name": "Blade",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Vampire",
@@ -1458,7 +1458,7 @@
   {
     "ID": 112,
     "Name": "Blaquesmith",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Unknown",
     "EyeColor": "black",
     "Race": "Unknown",
@@ -1471,7 +1471,7 @@
   {
     "ID": 113,
     "Name": "Bling!",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -1484,7 +1484,7 @@
   {
     "ID": 114,
     "Name": "Blink",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "green",
     "Race": "Mutant",
@@ -1497,7 +1497,7 @@
   {
     "ID": 115,
     "Name": "Blizzard",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -1510,7 +1510,7 @@
   {
     "ID": 116,
     "Name": "Blizzard",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -1523,7 +1523,7 @@
   {
     "ID": 117,
     "Name": "Blizzard II",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Unknown",
@@ -1536,7 +1536,7 @@
   {
     "ID": 118,
     "Name": "Blob",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Unknown",
@@ -1549,7 +1549,7 @@
   {
     "ID": 119,
     "Name": "Bloodaxe",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Human",
@@ -1562,7 +1562,7 @@
   {
     "ID": 120,
     "Name": "Bloodhawk",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "black",
     "Race": "Mutant",
@@ -1575,7 +1575,7 @@
   {
     "ID": 121,
     "Name": "Bloodwraith",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "white",
     "Race": "Unknown",
@@ -1588,7 +1588,7 @@
   {
     "ID": 122,
     "Name": "Blue Beetle",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -1601,7 +1601,7 @@
   {
     "ID": 123,
     "Name": "Blue Beetle",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -1614,7 +1614,7 @@
   {
     "ID": 124,
     "Name": "Blue Beetle II",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -1627,7 +1627,7 @@
   {
     "ID": 125,
     "Name": "Blue Beetle III",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Human",
@@ -1640,7 +1640,7 @@
   {
     "ID": 126,
     "Name": "Boba Fett",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Human / Clone",
@@ -1653,7 +1653,7 @@
   {
     "ID": 127,
     "Name": "Bolt",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -1666,7 +1666,7 @@
   {
     "ID": 128,
     "Name": "Bomb Queen",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Female",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -1679,7 +1679,7 @@
   {
     "ID": 129,
     "Name": "Boom-Boom",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Mutant",
@@ -1692,7 +1692,7 @@
   {
     "ID": 130,
     "Name": "Boomer",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -1705,7 +1705,7 @@
   {
     "ID": 131,
     "Name": "Booster Gold",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Human",
@@ -1718,7 +1718,7 @@
   {
     "ID": 132,
     "Name": "Box",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -1731,7 +1731,7 @@
   {
     "ID": 133,
     "Name": "Box III",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Unknown",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -1744,7 +1744,7 @@
   {
     "ID": 134,
     "Name": "Box IV",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Unknown",
     "EyeColor": "brown",
     "Race": "Unknown",
@@ -1757,7 +1757,7 @@
   {
     "ID": 135,
     "Name": "Brainiac",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "green",
     "Race": "Android",
@@ -1770,7 +1770,7 @@
   {
     "ID": 136,
     "Name": "Brainiac 5",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "green",
     "Race": "Unknown",
@@ -1783,7 +1783,7 @@
   {
     "ID": 137,
     "Name": "Brother Voodoo",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Human",
@@ -1809,7 +1809,7 @@
   {
     "ID": 139,
     "Name": "Buffy",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "green",
     "Race": "Human",
@@ -1822,7 +1822,7 @@
   {
     "ID": 140,
     "Name": "Bullseye",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Human",
@@ -1835,7 +1835,7 @@
   {
     "ID": 141,
     "Name": "Bumblebee",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "brown",
     "Race": "Human",
@@ -1848,7 +1848,7 @@
   {
     "ID": 142,
     "Name": "Bumbleboy",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -1861,7 +1861,7 @@
   {
     "ID": 143,
     "Name": "Bushido",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Human",
@@ -1874,7 +1874,7 @@
   {
     "ID": 144,
     "Name": "Cable",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Mutant",
@@ -1887,7 +1887,7 @@
   {
     "ID": 145,
     "Name": "Callisto",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -1900,7 +1900,7 @@
   {
     "ID": 146,
     "Name": "Cameron Hicks",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Alpha",
@@ -1913,7 +1913,7 @@
   {
     "ID": 147,
     "Name": "Cannonball",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -1926,7 +1926,7 @@
   {
     "ID": 148,
     "Name": "Captain America",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Human",
@@ -1939,7 +1939,7 @@
   {
     "ID": 149,
     "Name": "Captain Atom",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Human / Radiation",
@@ -1952,7 +1952,7 @@
   {
     "ID": 150,
     "Name": "Captain Britain",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Human",
@@ -1978,7 +1978,7 @@
   {
     "ID": 152,
     "Name": "Captain Epic",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -1991,7 +1991,7 @@
   {
     "ID": 153,
     "Name": "Captain Hindsight",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Human",
@@ -2004,7 +2004,7 @@
   {
     "ID": 154,
     "Name": "Captain Mar-vell",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -2017,7 +2017,7 @@
   {
     "ID": 155,
     "Name": "Captain Marvel",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Human-Kree",
@@ -2030,7 +2030,7 @@
   {
     "ID": 156,
     "Name": "Captain Marvel",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Human",
@@ -2043,7 +2043,7 @@
   {
     "ID": 157,
     "Name": "Captain Marvel II",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Human",
@@ -2056,7 +2056,7 @@
   {
     "ID": 158,
     "Name": "Captain Midnight",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Human",
@@ -2069,7 +2069,7 @@
   {
     "ID": 159,
     "Name": "Captain Planet",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "red",
     "Race": "God / Eternal",
@@ -2082,7 +2082,7 @@
   {
     "ID": 160,
     "Name": "Captain Universe",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Unknown",
     "EyeColor": "Unknown",
     "Race": "God / Eternal",
@@ -2095,7 +2095,7 @@
   {
     "ID": 161,
     "Name": "Carnage",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "green",
     "Race": "Symbiote",
@@ -2108,7 +2108,7 @@
   {
     "ID": 162,
     "Name": "Cat",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -2121,7 +2121,7 @@
   {
     "ID": 163,
     "Name": "Cat II",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -2134,7 +2134,7 @@
   {
     "ID": 164,
     "Name": "Catwoman",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "green",
     "Race": "Human",
@@ -2147,7 +2147,7 @@
   {
     "ID": 165,
     "Name": "Cecilia Reyes",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Unknown",
     "EyeColor": "brown",
     "Race": "Unknown",
@@ -2160,7 +2160,7 @@
   {
     "ID": 166,
     "Name": "Century",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "white",
     "Race": "Alien",
@@ -2173,7 +2173,7 @@
   {
     "ID": 167,
     "Name": "Cerebra",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "Unknown",
     "Race": "Mutant",
@@ -2186,7 +2186,7 @@
   {
     "ID": 168,
     "Name": "Chamber",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Mutant",
@@ -2199,7 +2199,7 @@
   {
     "ID": 169,
     "Name": "Chameleon",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -2212,7 +2212,7 @@
   {
     "ID": 170,
     "Name": "Changeling",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Unknown",
@@ -2225,7 +2225,7 @@
   {
     "ID": 171,
     "Name": "Cheetah",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Female",
     "EyeColor": "green",
     "Race": "Human",
@@ -2238,7 +2238,7 @@
   {
     "ID": 172,
     "Name": "Cheetah II",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Female",
     "EyeColor": "green",
     "Race": "Human",
@@ -2251,7 +2251,7 @@
   {
     "ID": 173,
     "Name": "Cheetah III",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Female",
     "EyeColor": "brown",
     "Race": "Human",
@@ -2264,7 +2264,7 @@
   {
     "ID": 174,
     "Name": "Chromos",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Unknown",
@@ -2277,7 +2277,7 @@
   {
     "ID": 175,
     "Name": "Chuck Norris",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -2290,7 +2290,7 @@
   {
     "ID": 176,
     "Name": "Citizen Steel",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "green",
     "Race": "Human",
@@ -2303,7 +2303,7 @@
   {
     "ID": 177,
     "Name": "Claire Bennet",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -2316,7 +2316,7 @@
   {
     "ID": 178,
     "Name": "Clea",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Unknown",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -2329,7 +2329,7 @@
   {
     "ID": 179,
     "Name": "Cloak",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Unknown",
@@ -2342,7 +2342,7 @@
   {
     "ID": 180,
     "Name": "Clock King",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Human",
@@ -2355,7 +2355,7 @@
   {
     "ID": 181,
     "Name": "Cogliostro",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -2368,7 +2368,7 @@
   {
     "ID": 182,
     "Name": "Colin Wagner",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "grey",
     "Race": "Unknown",
@@ -2381,7 +2381,7 @@
   {
     "ID": 183,
     "Name": "Colossal Boy",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -2394,7 +2394,7 @@
   {
     "ID": 184,
     "Name": "Colossus",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "silver",
     "Race": "Mutant",
@@ -2420,7 +2420,7 @@
   {
     "ID": 186,
     "Name": "Corsair",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Unknown",
@@ -2433,7 +2433,7 @@
   {
     "ID": 187,
     "Name": "Cottonmouth",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Human",
@@ -2446,7 +2446,7 @@
   {
     "ID": 188,
     "Name": "Crimson Crusader",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -2459,7 +2459,7 @@
   {
     "ID": 189,
     "Name": "Crimson Dynamo",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Unknown",
@@ -2472,7 +2472,7 @@
   {
     "ID": 190,
     "Name": "Crystal",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "green",
     "Race": "Inhuman",
@@ -2485,7 +2485,7 @@
   {
     "ID": 191,
     "Name": "Curse",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -2498,7 +2498,7 @@
   {
     "ID": 192,
     "Name": "Cy-Gor",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -2511,7 +2511,7 @@
   {
     "ID": 193,
     "Name": "Cyborg",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Cyborg",
@@ -2524,7 +2524,7 @@
   {
     "ID": 194,
     "Name": "Cyborg Superman",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Cyborg",
@@ -2537,7 +2537,7 @@
   {
     "ID": 195,
     "Name": "Cyclops",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Mutant",
@@ -2550,7 +2550,7 @@
   {
     "ID": 196,
     "Name": "Cypher",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Unknown",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -2563,7 +2563,7 @@
   {
     "ID": 197,
     "Name": "Dagger",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -2576,7 +2576,7 @@
   {
     "ID": 198,
     "Name": "Danny Cooper",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Unknown",
@@ -2589,7 +2589,7 @@
   {
     "ID": 199,
     "Name": "Daphne Powell",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -2602,7 +2602,7 @@
   {
     "ID": 200,
     "Name": "Daredevil",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Human",
@@ -2615,7 +2615,7 @@
   {
     "ID": 201,
     "Name": "Darkhawk",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Human",
@@ -2628,7 +2628,7 @@
   {
     "ID": 202,
     "Name": "Darkman",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -2641,7 +2641,7 @@
   {
     "ID": 203,
     "Name": "Darkseid",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "red",
     "Race": "New God",
@@ -2654,7 +2654,7 @@
   {
     "ID": 204,
     "Name": "Darkside",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Unknown",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -2667,7 +2667,7 @@
   {
     "ID": 205,
     "Name": "Darkstar",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "brown",
     "Race": "Mutant",
@@ -2680,7 +2680,7 @@
   {
     "ID": 206,
     "Name": "Darth Maul",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "yellow / red",
     "Race": "Dathomirian Zabrak",
@@ -2693,7 +2693,7 @@
   {
     "ID": 207,
     "Name": "Darth Vader",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "yellow",
     "Race": "Cyborg",
@@ -2706,7 +2706,7 @@
   {
     "ID": 208,
     "Name": "Dash",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Human",
@@ -2719,7 +2719,7 @@
   {
     "ID": 209,
     "Name": "Data",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "yellow",
     "Race": "Android",
@@ -2732,7 +2732,7 @@
   {
     "ID": 210,
     "Name": "Dazzler",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Mutant",
@@ -2745,7 +2745,7 @@
   {
     "ID": 211,
     "Name": "Deadman",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Human",
@@ -2771,7 +2771,7 @@
   {
     "ID": 213,
     "Name": "Deadshot",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Human",
@@ -2784,7 +2784,7 @@
   {
     "ID": 214,
     "Name": "Deathlok",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Cyborg",
@@ -2810,7 +2810,7 @@
   {
     "ID": 216,
     "Name": "Demogoblin",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "red",
     "Race": "Demon",
@@ -2823,7 +2823,7 @@
   {
     "ID": 217,
     "Name": "Destroyer",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -2836,7 +2836,7 @@
   {
     "ID": 218,
     "Name": "Diamondback",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Human",
@@ -2849,7 +2849,7 @@
   {
     "ID": 219,
     "Name": "DL Hawkins",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -2862,7 +2862,7 @@
   {
     "ID": 220,
     "Name": "Doc Samson",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Human / Radiation",
@@ -2875,7 +2875,7 @@
   {
     "ID": 221,
     "Name": "Doctor Doom",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Human",
@@ -2888,7 +2888,7 @@
   {
     "ID": 222,
     "Name": "Doctor Doom II",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Unknown",
@@ -2901,7 +2901,7 @@
   {
     "ID": 223,
     "Name": "Doctor Fate",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Human",
@@ -2914,7 +2914,7 @@
   {
     "ID": 224,
     "Name": "Doctor Octopus",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Human",
@@ -2927,7 +2927,7 @@
   {
     "ID": 225,
     "Name": "Doctor Strange",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "grey",
     "Race": "Human",
@@ -2940,7 +2940,7 @@
   {
     "ID": 226,
     "Name": "Domino",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Human",
@@ -2953,7 +2953,7 @@
   {
     "ID": 227,
     "Name": "Donatello",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "green",
     "Race": "Mutant",
@@ -2966,7 +2966,7 @@
   {
     "ID": 228,
     "Name": "Donna Troy",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Amazon",
@@ -2979,7 +2979,7 @@
   {
     "ID": 229,
     "Name": "Doomsday",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "red",
     "Race": "Alien",
@@ -2992,7 +2992,7 @@
   {
     "ID": 230,
     "Name": "Doppelganger",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "white",
     "Race": "Unknown",
@@ -3005,7 +3005,7 @@
   {
     "ID": 231,
     "Name": "Dormammu",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "yellow",
     "Race": "Unknown",
@@ -3018,7 +3018,7 @@
   {
     "ID": 232,
     "Name": "Dr Manhattan",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "white",
     "Race": "Human / Cosmic",
@@ -3031,7 +3031,7 @@
   {
     "ID": 233,
     "Name": "Drax the Destroyer",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "red",
     "Race": "Human / Altered",
@@ -3044,7 +3044,7 @@
   {
     "ID": 234,
     "Name": "Ego",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Unknown",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -3057,7 +3057,7 @@
   {
     "ID": 235,
     "Name": "Elastigirl",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "brown",
     "Race": "Human",
@@ -3070,7 +3070,7 @@
   {
     "ID": 236,
     "Name": "Electro",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Human",
@@ -3083,7 +3083,7 @@
   {
     "ID": 237,
     "Name": "Elektra",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Human",
@@ -3096,7 +3096,7 @@
   {
     "ID": 238,
     "Name": "Elle Bishop",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -3109,7 +3109,7 @@
   {
     "ID": 239,
     "Name": "Elongated Man",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -3122,7 +3122,7 @@
   {
     "ID": 240,
     "Name": "Emma Frost",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -3135,7 +3135,7 @@
   {
     "ID": 241,
     "Name": "Enchantress",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Human",
@@ -3148,7 +3148,7 @@
   {
     "ID": 242,
     "Name": "Energy",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -3161,7 +3161,7 @@
   {
     "ID": 243,
     "Name": "ERG-1",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -3174,7 +3174,7 @@
   {
     "ID": 244,
     "Name": "Ethan Hunt",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Human",
@@ -3200,7 +3200,7 @@
   {
     "ID": 246,
     "Name": "Evil Deadpool",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "white",
     "Race": "Mutant",
@@ -3213,7 +3213,7 @@
   {
     "ID": 247,
     "Name": "Evilhawk",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "red",
     "Race": "Alien",
@@ -3226,7 +3226,7 @@
   {
     "ID": 248,
     "Name": "Exodus",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Mutant",
@@ -3239,7 +3239,7 @@
   {
     "ID": 249,
     "Name": "Fabian Cortez",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Unknown",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -3252,7 +3252,7 @@
   {
     "ID": 250,
     "Name": "Falcon",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Human",
@@ -3265,7 +3265,7 @@
   {
     "ID": 251,
     "Name": "Fallen One II",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "black",
     "Race": "Unknown",
@@ -3278,7 +3278,7 @@
   {
     "ID": 252,
     "Name": "Faora",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Female",
     "EyeColor": "Unknown",
     "Race": "Kryptonian",
@@ -3291,7 +3291,7 @@
   {
     "ID": 253,
     "Name": "Feral",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Unknown",
     "EyeColor": "yellow (without irises)",
     "Race": "Unknown",
@@ -3304,7 +3304,7 @@
   {
     "ID": 254,
     "Name": "Fighting Spirit",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -3317,7 +3317,7 @@
   {
     "ID": 255,
     "Name": "Fin Fang Foom",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "red",
     "Race": "Kakarantharaian",
@@ -3330,7 +3330,7 @@
   {
     "ID": 256,
     "Name": "Firebird",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "brown",
     "Race": "Unknown",
@@ -3343,7 +3343,7 @@
   {
     "ID": 257,
     "Name": "Firelord",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Unknown",
     "EyeColor": "white",
     "Race": "Unknown",
@@ -3356,7 +3356,7 @@
   {
     "ID": 258,
     "Name": "Firestar",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "green",
     "Race": "Mutant",
@@ -3369,7 +3369,7 @@
   {
     "ID": 259,
     "Name": "Firestorm",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Unknown",
@@ -3382,7 +3382,7 @@
   {
     "ID": 260,
     "Name": "Firestorm",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Human",
@@ -3395,7 +3395,7 @@
   {
     "ID": 261,
     "Name": "Fixer",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Unknown",
     "EyeColor": "red",
     "Race": "Unknown",
@@ -3408,7 +3408,7 @@
   {
     "ID": 262,
     "Name": "Flash",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Human",
@@ -3421,7 +3421,7 @@
   {
     "ID": 263,
     "Name": "Flash Gordon",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -3434,7 +3434,7 @@
   {
     "ID": 264,
     "Name": "Flash II",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Human",
@@ -3447,7 +3447,7 @@
   {
     "ID": 265,
     "Name": "Flash III",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Human",
@@ -3460,7 +3460,7 @@
   {
     "ID": 266,
     "Name": "Flash IV",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "yellow",
     "Race": "Human",
@@ -3473,7 +3473,7 @@
   {
     "ID": 267,
     "Name": "Forge",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Unknown",
     "EyeColor": "brown",
     "Race": "Unknown",
@@ -3486,7 +3486,7 @@
   {
     "ID": 268,
     "Name": "Franklin Richards",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Mutant",
@@ -3499,7 +3499,7 @@
   {
     "ID": 269,
     "Name": "Franklin Storm",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Unknown",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -3512,7 +3512,7 @@
   {
     "ID": 270,
     "Name": "Frenzy",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Female",
     "EyeColor": "brown",
     "Race": "Unknown",
@@ -3525,7 +3525,7 @@
   {
     "ID": 271,
     "Name": "Frigga",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -3551,7 +3551,7 @@
   {
     "ID": 273,
     "Name": "Gambit",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "red",
     "Race": "Mutant",
@@ -3564,7 +3564,7 @@
   {
     "ID": 274,
     "Name": "Gamora",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "yellow",
     "Race": "Zen-Whoberian",
@@ -3577,7 +3577,7 @@
   {
     "ID": 275,
     "Name": "Garbage Man",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Mutant",
@@ -3590,7 +3590,7 @@
   {
     "ID": 276,
     "Name": "Gary Bell",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Alpha",
@@ -3603,7 +3603,7 @@
   {
     "ID": 277,
     "Name": "General Zod",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "black",
     "Race": "Kryptonian",
@@ -3616,7 +3616,7 @@
   {
     "ID": 278,
     "Name": "Genesis",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -3629,7 +3629,7 @@
   {
     "ID": 279,
     "Name": "Ghost Rider",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "red",
     "Race": "Demon",
@@ -3642,7 +3642,7 @@
   {
     "ID": 280,
     "Name": "Ghost Rider II",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Unknown",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -3655,7 +3655,7 @@
   {
     "ID": 281,
     "Name": "Giant-Man",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Human",
@@ -3668,7 +3668,7 @@
   {
     "ID": 282,
     "Name": "Giant-Man II",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -3681,7 +3681,7 @@
   {
     "ID": 283,
     "Name": "Giganta",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Female",
     "EyeColor": "green",
     "Race": "Unknown",
@@ -3707,7 +3707,7 @@
   {
     "ID": 285,
     "Name": "Goblin Queen",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Female",
     "EyeColor": "green",
     "Race": "Unknown",
@@ -3720,7 +3720,7 @@
   {
     "ID": 286,
     "Name": "Godzilla",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Unknown",
     "EyeColor": "Unknown",
     "Race": "Kaiju",
@@ -3733,7 +3733,7 @@
   {
     "ID": 287,
     "Name": "Gog",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -3746,7 +3746,7 @@
   {
     "ID": 288,
     "Name": "Goku",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Saiyan",
@@ -3759,7 +3759,7 @@
   {
     "ID": 289,
     "Name": "Goliath",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -3772,7 +3772,7 @@
   {
     "ID": 290,
     "Name": "Goliath",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Human",
@@ -3785,7 +3785,7 @@
   {
     "ID": 291,
     "Name": "Goliath",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Human",
@@ -3798,7 +3798,7 @@
   {
     "ID": 292,
     "Name": "Goliath IV",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Unknown",
@@ -3811,7 +3811,7 @@
   {
     "ID": 293,
     "Name": "Gorilla Grodd",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "yellow",
     "Race": "Gorilla",
@@ -3824,7 +3824,7 @@
   {
     "ID": 294,
     "Name": "Granny Goodness",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -3837,7 +3837,7 @@
   {
     "ID": 295,
     "Name": "Gravity",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Human",
@@ -3850,7 +3850,7 @@
   {
     "ID": 296,
     "Name": "Greedo",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "purple",
     "Race": "Rodian",
@@ -3863,7 +3863,7 @@
   {
     "ID": 297,
     "Name": "Green Arrow",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "green",
     "Race": "Human",
@@ -3876,7 +3876,7 @@
   {
     "ID": 298,
     "Name": "Green Goblin",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Human",
@@ -3889,7 +3889,7 @@
   {
     "ID": 299,
     "Name": "Green Goblin II",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -3902,7 +3902,7 @@
   {
     "ID": 300,
     "Name": "Green Goblin III",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -3915,7 +3915,7 @@
   {
     "ID": 301,
     "Name": "Green Goblin IV",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "green",
     "Race": "Unknown",
@@ -3928,7 +3928,7 @@
   {
     "ID": 302,
     "Name": "Groot",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "yellow",
     "Race": "Flora Colossus",
@@ -3941,7 +3941,7 @@
   {
     "ID": 303,
     "Name": "Guardian",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Human",
@@ -3954,7 +3954,7 @@
   {
     "ID": 304,
     "Name": "Guy Gardner",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Human-Vuldarian",
@@ -3967,7 +3967,7 @@
   {
     "ID": 305,
     "Name": "Hal Jordan",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Human",
@@ -3980,7 +3980,7 @@
   {
     "ID": 306,
     "Name": "Han Solo",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Human",
@@ -3993,7 +3993,7 @@
   {
     "ID": 307,
     "Name": "Hancock",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Human",
@@ -4006,7 +4006,7 @@
   {
     "ID": 308,
     "Name": "Harley Quinn",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Human",
@@ -4019,7 +4019,7 @@
   {
     "ID": 309,
     "Name": "Harry Potter",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "green",
     "Race": "Human",
@@ -4032,7 +4032,7 @@
   {
     "ID": 310,
     "Name": "Havok",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Mutant",
@@ -4045,7 +4045,7 @@
   {
     "ID": 311,
     "Name": "Hawk",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "red",
     "Race": "Unknown",
@@ -4058,7 +4058,7 @@
   {
     "ID": 312,
     "Name": "Hawkeye",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Human",
@@ -4071,7 +4071,7 @@
   {
     "ID": 313,
     "Name": "Hawkeye II",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Human",
@@ -4084,7 +4084,7 @@
   {
     "ID": 314,
     "Name": "Hawkgirl",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "green",
     "Race": "Unknown",
@@ -4097,7 +4097,7 @@
   {
     "ID": 315,
     "Name": "Hawkman",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -4110,7 +4110,7 @@
   {
     "ID": 316,
     "Name": "Hawkwoman",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "green",
     "Race": "Unknown",
@@ -4123,7 +4123,7 @@
   {
     "ID": 317,
     "Name": "Hawkwoman II",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -4136,7 +4136,7 @@
   {
     "ID": 318,
     "Name": "Hawkwoman III",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -4149,7 +4149,7 @@
   {
     "ID": 319,
     "Name": "Heat Wave",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Human",
@@ -4162,7 +4162,7 @@
   {
     "ID": 320,
     "Name": "Hela",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Female",
     "EyeColor": "green",
     "Race": "Asgardian",
@@ -4175,7 +4175,7 @@
   {
     "ID": 321,
     "Name": "Hellboy",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "gold",
     "Race": "Demon",
@@ -4188,7 +4188,7 @@
   {
     "ID": 322,
     "Name": "Hellcat",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Human",
@@ -4201,7 +4201,7 @@
   {
     "ID": 323,
     "Name": "Hellstorm",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "red",
     "Race": "Unknown",
@@ -4214,7 +4214,7 @@
   {
     "ID": 324,
     "Name": "Hercules",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Demi-God",
@@ -4227,7 +4227,7 @@
   {
     "ID": 325,
     "Name": "Hiro Nakamura",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -4240,7 +4240,7 @@
   {
     "ID": 326,
     "Name": "Hit-Girl",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "Unknown",
     "Race": "Human",
@@ -4253,7 +4253,7 @@
   {
     "ID": 327,
     "Name": "Hobgoblin",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -4266,7 +4266,7 @@
   {
     "ID": 328,
     "Name": "Hollow",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -4279,7 +4279,7 @@
   {
     "ID": 329,
     "Name": "Hope Summers",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "green",
     "Race": "Unknown",
@@ -4292,7 +4292,7 @@
   {
     "ID": 330,
     "Name": "Howard the Duck",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Unknown",
@@ -4305,7 +4305,7 @@
   {
     "ID": 331,
     "Name": "Hulk",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "green",
     "Race": "Human / Radiation",
@@ -4318,7 +4318,7 @@
   {
     "ID": 332,
     "Name": "Human Torch",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Human / Radiation",
@@ -4331,7 +4331,7 @@
   {
     "ID": 333,
     "Name": "Huntress",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -4344,7 +4344,7 @@
   {
     "ID": 334,
     "Name": "Husk",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Mutant",
@@ -4357,7 +4357,7 @@
   {
     "ID": 335,
     "Name": "Hybrid",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Symbiote",
@@ -4370,7 +4370,7 @@
   {
     "ID": 336,
     "Name": "Hydro-Man",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Unknown",
@@ -4383,7 +4383,7 @@
   {
     "ID": 337,
     "Name": "Hyperion",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Eternal",
@@ -4396,7 +4396,7 @@
   {
     "ID": 338,
     "Name": "Iceman",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Mutant",
@@ -4409,7 +4409,7 @@
   {
     "ID": 339,
     "Name": "Impulse",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "yellow",
     "Race": "Human",
@@ -4422,7 +4422,7 @@
   {
     "ID": 340,
     "Name": "Indiana Jones",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Human",
@@ -4448,7 +4448,7 @@
   {
     "ID": 342,
     "Name": "Ink",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Mutant",
@@ -4461,7 +4461,7 @@
   {
     "ID": 343,
     "Name": "Invisible Woman",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Human / Radiation",
@@ -4474,7 +4474,7 @@
   {
     "ID": 344,
     "Name": "Iron Fist",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Human",
@@ -4487,7 +4487,7 @@
   {
     "ID": 345,
     "Name": "Iron Man",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Human",
@@ -4500,7 +4500,7 @@
   {
     "ID": 346,
     "Name": "Iron Monger",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -4513,7 +4513,7 @@
   {
     "ID": 347,
     "Name": "Isis",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -4526,7 +4526,7 @@
   {
     "ID": 348,
     "Name": "Jack Bauer",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -4539,7 +4539,7 @@
   {
     "ID": 349,
     "Name": "Jack of Hearts",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue / white",
     "Race": "Human",
@@ -4552,7 +4552,7 @@
   {
     "ID": 350,
     "Name": "Jack-Jack",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Human",
@@ -4565,7 +4565,7 @@
   {
     "ID": 351,
     "Name": "James Bond",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Human",
@@ -4578,7 +4578,7 @@
   {
     "ID": 352,
     "Name": "James T. Kirk",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "hazel",
     "Race": "Human",
@@ -4591,7 +4591,7 @@
   {
     "ID": 353,
     "Name": "Jar Jar Binks",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "yellow",
     "Race": "Gungan",
@@ -4604,7 +4604,7 @@
   {
     "ID": 354,
     "Name": "Jason Bourne",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Human",
@@ -4617,7 +4617,7 @@
   {
     "ID": 355,
     "Name": "Jean Grey",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "green",
     "Race": "Mutant",
@@ -4630,7 +4630,7 @@
   {
     "ID": 356,
     "Name": "Jean-Luc Picard",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Human",
@@ -4643,7 +4643,7 @@
   {
     "ID": 357,
     "Name": "Jennifer Kale",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -4656,7 +4656,7 @@
   {
     "ID": 358,
     "Name": "Jesse Quick",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "Unknown",
     "Race": "Human",
@@ -4669,7 +4669,7 @@
   {
     "ID": 359,
     "Name": "Jessica Cruz",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "green",
     "Race": "Human",
@@ -4682,7 +4682,7 @@
   {
     "ID": 360,
     "Name": "Jessica Jones",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "brown",
     "Race": "Human",
@@ -4695,7 +4695,7 @@
   {
     "ID": 361,
     "Name": "Jessica Sanders",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -4708,7 +4708,7 @@
   {
     "ID": 362,
     "Name": "Jigsaw",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -4721,7 +4721,7 @@
   {
     "ID": 363,
     "Name": "Jim Powell",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -4734,7 +4734,7 @@
   {
     "ID": 364,
     "Name": "JJ Powell",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -4747,7 +4747,7 @@
   {
     "ID": 365,
     "Name": "Johann Krauss",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -4760,7 +4760,7 @@
   {
     "ID": 366,
     "Name": "John Constantine",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Human",
@@ -4773,7 +4773,7 @@
   {
     "ID": 367,
     "Name": "John Stewart",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "green",
     "Race": "Human",
@@ -4786,7 +4786,7 @@
   {
     "ID": 368,
     "Name": "John Wraith",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Unknown",
@@ -4799,7 +4799,7 @@
   {
     "ID": 369,
     "Name": "Joker",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "green",
     "Race": "Human",
@@ -4812,7 +4812,7 @@
   {
     "ID": 370,
     "Name": "Jolt",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -4825,7 +4825,7 @@
   {
     "ID": 371,
     "Name": "Jubilee",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "red",
     "Race": "Mutant",
@@ -4838,7 +4838,7 @@
   {
     "ID": 372,
     "Name": "Judge Dredd",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Human",
@@ -4864,7 +4864,7 @@
   {
     "ID": 374,
     "Name": "Junkpile",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Mutant",
@@ -4877,7 +4877,7 @@
   {
     "ID": 375,
     "Name": "Justice",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "hazel",
     "Race": "Human",
@@ -4890,7 +4890,7 @@
   {
     "ID": 376,
     "Name": "Jyn Erso",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "green",
     "Race": "Human",
@@ -4903,7 +4903,7 @@
   {
     "ID": 377,
     "Name": "K-2SO",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "white",
     "Race": "Android",
@@ -4916,7 +4916,7 @@
   {
     "ID": 378,
     "Name": "Kang",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Unknown",
@@ -4929,7 +4929,7 @@
   {
     "ID": 379,
     "Name": "Karate Kid",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Human",
@@ -4942,7 +4942,7 @@
   {
     "ID": 380,
     "Name": "Kathryn Janeway",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "Unknown",
     "Race": "Human",
@@ -4955,7 +4955,7 @@
   {
     "ID": 381,
     "Name": "Katniss Everdeen",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "Unknown",
     "Race": "Human",
@@ -4968,7 +4968,7 @@
   {
     "ID": 382,
     "Name": "Kevin 11",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Human",
@@ -4981,7 +4981,7 @@
   {
     "ID": 383,
     "Name": "Kick-Ass",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Human",
@@ -4994,7 +4994,7 @@
   {
     "ID": 384,
     "Name": "Kid Flash",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "green",
     "Race": "Human",
@@ -5007,7 +5007,7 @@
   {
     "ID": 385,
     "Name": "Kid Flash II",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -5020,7 +5020,7 @@
   {
     "ID": 386,
     "Name": "Killer Croc",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "red",
     "Race": "Metahuman",
@@ -5033,7 +5033,7 @@
   {
     "ID": 387,
     "Name": "Killer Frost",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Human",
@@ -5046,7 +5046,7 @@
   {
     "ID": 388,
     "Name": "Kilowog",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "red",
     "Race": "Bolovaxian",
@@ -5059,7 +5059,7 @@
   {
     "ID": 389,
     "Name": "King Kong",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "yellow",
     "Race": "Animal",
@@ -5072,7 +5072,7 @@
   {
     "ID": 390,
     "Name": "King Shark",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "black",
     "Race": "Animal",
@@ -5085,7 +5085,7 @@
   {
     "ID": 391,
     "Name": "Kingpin",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Human",
@@ -5098,7 +5098,7 @@
   {
     "ID": 392,
     "Name": "Klaw",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "red",
     "Race": "Human",
@@ -5111,7 +5111,7 @@
   {
     "ID": 393,
     "Name": "Kool-Aid Man",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "black",
     "Race": "Unknown",
@@ -5124,7 +5124,7 @@
   {
     "ID": 394,
     "Name": "Kraven II",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Human",
@@ -5137,7 +5137,7 @@
   {
     "ID": 395,
     "Name": "Kraven the Hunter",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Human",
@@ -5150,7 +5150,7 @@
   {
     "ID": 396,
     "Name": "Krypto",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Kryptonian",
@@ -5163,7 +5163,7 @@
   {
     "ID": 397,
     "Name": "Kyle Rayner",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "green",
     "Race": "Human",
@@ -5176,7 +5176,7 @@
   {
     "ID": 398,
     "Name": "Kylo Ren",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Human",
@@ -5189,7 +5189,7 @@
   {
     "ID": 399,
     "Name": "Lady Bullseye",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Female",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -5202,7 +5202,7 @@
   {
     "ID": 400,
     "Name": "Lady Deathstrike",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Female",
     "EyeColor": "brown",
     "Race": "Cyborg",
@@ -5215,7 +5215,7 @@
   {
     "ID": 401,
     "Name": "Leader",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "green",
     "Race": "Unknown",
@@ -5228,7 +5228,7 @@
   {
     "ID": 402,
     "Name": "Leech",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -5241,7 +5241,7 @@
   {
     "ID": 403,
     "Name": "Legion",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "green / blue",
     "Race": "Mutant",
@@ -5254,7 +5254,7 @@
   {
     "ID": 404,
     "Name": "Leonardo",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Mutant",
@@ -5267,7 +5267,7 @@
   {
     "ID": 405,
     "Name": "Lex Luthor",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "green",
     "Race": "Human",
@@ -5280,7 +5280,7 @@
   {
     "ID": 406,
     "Name": "Light Lass",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -5293,7 +5293,7 @@
   {
     "ID": 407,
     "Name": "Lightning Lad",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -5306,7 +5306,7 @@
   {
     "ID": 408,
     "Name": "Lightning Lord",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -5319,7 +5319,7 @@
   {
     "ID": 409,
     "Name": "Living Brain",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Unknown",
     "EyeColor": "yellow",
     "Race": "Unknown",
@@ -5345,7 +5345,7 @@
   {
     "ID": 411,
     "Name": "Liz Sherman",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -5358,7 +5358,7 @@
   {
     "ID": 412,
     "Name": "Lizard",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "red",
     "Race": "Human",
@@ -5384,7 +5384,7 @@
   {
     "ID": 414,
     "Name": "Loki",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "green",
     "Race": "Asgardian",
@@ -5397,7 +5397,7 @@
   {
     "ID": 415,
     "Name": "Longshot",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Human",
@@ -5410,7 +5410,7 @@
   {
     "ID": 416,
     "Name": "Luke Cage",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Human",
@@ -5423,7 +5423,7 @@
   {
     "ID": 417,
     "Name": "Luke Campbell",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -5436,7 +5436,7 @@
   {
     "ID": 418,
     "Name": "Luke Skywalker",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Human",
@@ -5449,7 +5449,7 @@
   {
     "ID": 419,
     "Name": "Luna",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "Unknown",
     "Race": "Human",
@@ -5462,7 +5462,7 @@
   {
     "ID": 420,
     "Name": "Lyja",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "green",
     "Race": "Unknown",
@@ -5475,7 +5475,7 @@
   {
     "ID": 421,
     "Name": "Mach-IV",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Unknown",
@@ -5488,7 +5488,7 @@
   {
     "ID": 422,
     "Name": "Machine Man",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Unknown",
     "EyeColor": "red",
     "Race": "Unknown",
@@ -5501,7 +5501,7 @@
   {
     "ID": 423,
     "Name": "Magneto",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "grey",
     "Race": "Mutant",
@@ -5514,7 +5514,7 @@
   {
     "ID": 424,
     "Name": "Magog",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -5527,7 +5527,7 @@
   {
     "ID": 425,
     "Name": "Magus",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "black",
     "Race": "Unknown",
@@ -5566,7 +5566,7 @@
   {
     "ID": 428,
     "Name": "Man-Thing",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "red",
     "Race": "Unknown",
@@ -5579,7 +5579,7 @@
   {
     "ID": 429,
     "Name": "Man-Wolf",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Unknown",
@@ -5592,7 +5592,7 @@
   {
     "ID": 430,
     "Name": "Mandarin",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Human",
@@ -5605,7 +5605,7 @@
   {
     "ID": 431,
     "Name": "Mantis",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "green",
     "Race": "Human-Kree",
@@ -5618,7 +5618,7 @@
   {
     "ID": 432,
     "Name": "Martian Manhunter",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "red",
     "Race": "Martian",
@@ -5631,7 +5631,7 @@
   {
     "ID": 433,
     "Name": "Marvel Girl",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "green",
     "Race": "Unknown",
@@ -5644,7 +5644,7 @@
   {
     "ID": 434,
     "Name": "Master Brood",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -5657,7 +5657,7 @@
   {
     "ID": 435,
     "Name": "Master Chief",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Human / Altered",
@@ -5670,7 +5670,7 @@
   {
     "ID": 436,
     "Name": "Match",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "black",
     "Race": "Unknown",
@@ -5683,7 +5683,7 @@
   {
     "ID": 437,
     "Name": "Matt Parkman",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -5696,7 +5696,7 @@
   {
     "ID": 438,
     "Name": "Maverick",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -5709,7 +5709,7 @@
   {
     "ID": 439,
     "Name": "Maxima",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Female",
     "EyeColor": "brown",
     "Race": "Unknown",
@@ -5722,7 +5722,7 @@
   {
     "ID": 440,
     "Name": "Maya Herrera",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -5735,7 +5735,7 @@
   {
     "ID": 441,
     "Name": "Medusa",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "green",
     "Race": "Inhuman",
@@ -5748,7 +5748,7 @@
   {
     "ID": 442,
     "Name": "Meltdown",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -5761,7 +5761,7 @@
   {
     "ID": 443,
     "Name": "Mephisto",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "white",
     "Race": "Unknown",
@@ -5774,7 +5774,7 @@
   {
     "ID": 444,
     "Name": "Mera",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Atlantean",
@@ -5787,7 +5787,7 @@
   {
     "ID": 445,
     "Name": "Metallo",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "green",
     "Race": "Android",
@@ -5800,7 +5800,7 @@
   {
     "ID": 446,
     "Name": "Metamorpho",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "black",
     "Race": "Unknown",
@@ -5813,7 +5813,7 @@
   {
     "ID": 447,
     "Name": "Meteorite",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -5826,7 +5826,7 @@
   {
     "ID": 448,
     "Name": "Metron",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -5839,7 +5839,7 @@
   {
     "ID": 449,
     "Name": "Micah Sanders",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Unknown",
@@ -5852,7 +5852,7 @@
   {
     "ID": 450,
     "Name": "Michelangelo",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Mutant",
@@ -5865,7 +5865,7 @@
   {
     "ID": 451,
     "Name": "Micro Lad",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "grey",
     "Race": "Unknown",
@@ -5878,7 +5878,7 @@
   {
     "ID": 452,
     "Name": "Mimic",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Unknown",
@@ -5891,7 +5891,7 @@
   {
     "ID": 453,
     "Name": "Minna Murray",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -5904,7 +5904,7 @@
   {
     "ID": 454,
     "Name": "Misfit",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -5917,7 +5917,7 @@
   {
     "ID": 455,
     "Name": "Miss Martian",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "red",
     "Race": "Unknown",
@@ -5930,7 +5930,7 @@
   {
     "ID": 456,
     "Name": "Mister Fantastic",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Human / Radiation",
@@ -5943,7 +5943,7 @@
   {
     "ID": 457,
     "Name": "Mister Freeze",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Human",
@@ -5956,7 +5956,7 @@
   {
     "ID": 458,
     "Name": "Mister Knife",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Spartoi",
@@ -5969,7 +5969,7 @@
   {
     "ID": 459,
     "Name": "Mister Mxyzptlk",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "God / Eternal",
@@ -5982,7 +5982,7 @@
   {
     "ID": 460,
     "Name": "Mister Sinister",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "red",
     "Race": "Human / Altered",
@@ -5995,7 +5995,7 @@
   {
     "ID": 461,
     "Name": "Mister Zsasz",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Human",
@@ -6008,7 +6008,7 @@
   {
     "ID": 462,
     "Name": "Mockingbird",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Human",
@@ -6021,7 +6021,7 @@
   {
     "ID": 463,
     "Name": "MODOK",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "white",
     "Race": "Cyborg",
@@ -6034,7 +6034,7 @@
   {
     "ID": 464,
     "Name": "Mogo",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Planet",
@@ -6047,7 +6047,7 @@
   {
     "ID": 465,
     "Name": "Mohinder Suresh",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -6060,7 +6060,7 @@
   {
     "ID": 466,
     "Name": "Moloch",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -6073,7 +6073,7 @@
   {
     "ID": 467,
     "Name": "Molten Man",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "gold",
     "Race": "Unknown",
@@ -6086,7 +6086,7 @@
   {
     "ID": 468,
     "Name": "Monarch",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -6099,7 +6099,7 @@
   {
     "ID": 469,
     "Name": "Monica Dawson",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -6112,7 +6112,7 @@
   {
     "ID": 470,
     "Name": "Moon Knight",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Human",
@@ -6125,7 +6125,7 @@
   {
     "ID": 471,
     "Name": "Moonstone",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -6138,7 +6138,7 @@
   {
     "ID": 472,
     "Name": "Morlun",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "white / red",
     "Race": "Unknown",
@@ -6151,7 +6151,7 @@
   {
     "ID": 473,
     "Name": "Morph",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "white",
     "Race": "Unknown",
@@ -6164,7 +6164,7 @@
   {
     "ID": 474,
     "Name": "Moses Magnum",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Unknown",
@@ -6177,7 +6177,7 @@
   {
     "ID": 475,
     "Name": "Mr Immortal",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Mutant",
@@ -6190,7 +6190,7 @@
   {
     "ID": 476,
     "Name": "Mr Incredible",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Human",
@@ -6203,7 +6203,7 @@
   {
     "ID": 477,
     "Name": "Ms Marvel II",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -6216,7 +6216,7 @@
   {
     "ID": 478,
     "Name": "Multiple Man",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -6229,7 +6229,7 @@
   {
     "ID": 479,
     "Name": "Mysterio",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Human",
@@ -6242,7 +6242,7 @@
   {
     "ID": 480,
     "Name": "Mystique",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Female",
     "EyeColor": "yellow (without irises)",
     "Race": "Mutant",
@@ -6255,7 +6255,7 @@
   {
     "ID": 481,
     "Name": "Namor",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -6268,7 +6268,7 @@
   {
     "ID": 482,
     "Name": "Namor",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "grey",
     "Race": "Atlantean",
@@ -6281,7 +6281,7 @@
   {
     "ID": 483,
     "Name": "Namora",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -6294,7 +6294,7 @@
   {
     "ID": 484,
     "Name": "Namorita",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -6307,7 +6307,7 @@
   {
     "ID": 485,
     "Name": "Naruto Uzumaki",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Human",
@@ -6320,7 +6320,7 @@
   {
     "ID": 486,
     "Name": "Nathan Petrelli",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Unknown",
@@ -6333,7 +6333,7 @@
   {
     "ID": 487,
     "Name": "Nebula",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Luphomoid",
@@ -6346,7 +6346,7 @@
   {
     "ID": 488,
     "Name": "Negasonic Teenage Warhead",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "black",
     "Race": "Mutant",
@@ -6359,7 +6359,7 @@
   {
     "ID": 489,
     "Name": "Nick Fury",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Human",
@@ -6372,7 +6372,7 @@
   {
     "ID": 490,
     "Name": "Nightcrawler",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "yellow",
     "Race": "Unknown",
@@ -6385,7 +6385,7 @@
   {
     "ID": 491,
     "Name": "Nightwing",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Human",
@@ -6398,7 +6398,7 @@
   {
     "ID": 492,
     "Name": "Niki Sanders",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -6411,7 +6411,7 @@
   {
     "ID": 493,
     "Name": "Nina Theroux",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "Unknown",
     "Race": "Alpha",
@@ -6424,7 +6424,7 @@
   {
     "ID": 494,
     "Name": "Nite Owl II",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -6437,7 +6437,7 @@
   {
     "ID": 495,
     "Name": "Northstar",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -6450,7 +6450,7 @@
   {
     "ID": 496,
     "Name": "Nova",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Human",
@@ -6463,7 +6463,7 @@
   {
     "ID": 497,
     "Name": "Nova",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "white",
     "Race": "Human / Cosmic",
@@ -6476,7 +6476,7 @@
   {
     "ID": 498,
     "Name": "Odin",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "God / Eternal",
@@ -6489,7 +6489,7 @@
   {
     "ID": 499,
     "Name": "Offspring",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -6502,7 +6502,7 @@
   {
     "ID": 500,
     "Name": "Omega Red",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "red",
     "Race": "Unknown",
@@ -6515,7 +6515,7 @@
   {
     "ID": 501,
     "Name": "Omniscient",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Unknown",
@@ -6528,7 +6528,7 @@
   {
     "ID": 502,
     "Name": "One Punch Man",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Human",
@@ -6554,7 +6554,7 @@
   {
     "ID": 504,
     "Name": "Onslaught",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "red",
     "Race": "Mutant",
@@ -6567,7 +6567,7 @@
   {
     "ID": 505,
     "Name": "Oracle",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Human",
@@ -6580,7 +6580,7 @@
   {
     "ID": 506,
     "Name": "Osiris",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Unknown",
@@ -6593,7 +6593,7 @@
   {
     "ID": 507,
     "Name": "Overtkill",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -6606,7 +6606,7 @@
   {
     "ID": 508,
     "Name": "Ozymandias",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Human",
@@ -6619,7 +6619,7 @@
   {
     "ID": 509,
     "Name": "Parademon",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Unknown",
     "EyeColor": "Unknown",
     "Race": "Parademon",
@@ -6632,7 +6632,7 @@
   {
     "ID": 510,
     "Name": "Paul Blart",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Human",
@@ -6645,7 +6645,7 @@
   {
     "ID": 511,
     "Name": "Penance",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Unknown",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -6658,7 +6658,7 @@
   {
     "ID": 512,
     "Name": "Penance I",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -6671,7 +6671,7 @@
   {
     "ID": 513,
     "Name": "Penance II",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -6684,7 +6684,7 @@
   {
     "ID": 514,
     "Name": "Penguin",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Human",
@@ -6697,7 +6697,7 @@
   {
     "ID": 515,
     "Name": "Peter Petrelli",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -6710,7 +6710,7 @@
   {
     "ID": 516,
     "Name": "Phantom",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -6723,7 +6723,7 @@
   {
     "ID": 517,
     "Name": "Phantom Girl",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -6736,7 +6736,7 @@
   {
     "ID": 518,
     "Name": "Phoenix",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "green",
     "Race": "Mutant",
@@ -6749,7 +6749,7 @@
   {
     "ID": 519,
     "Name": "Plantman",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "green",
     "Race": "Mutant",
@@ -6762,7 +6762,7 @@
   {
     "ID": 520,
     "Name": "Plastic Lad",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -6775,7 +6775,7 @@
   {
     "ID": 521,
     "Name": "Plastic Man",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Human",
@@ -6788,7 +6788,7 @@
   {
     "ID": 522,
     "Name": "Plastique",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -6801,7 +6801,7 @@
   {
     "ID": 523,
     "Name": "Poison Ivy",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Female",
     "EyeColor": "green",
     "Race": "Human",
@@ -6814,7 +6814,7 @@
   {
     "ID": 524,
     "Name": "Polaris",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "green",
     "Race": "Mutant",
@@ -6827,7 +6827,7 @@
   {
     "ID": 525,
     "Name": "Power Girl",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Kryptonian",
@@ -6840,7 +6840,7 @@
   {
     "ID": 526,
     "Name": "Power Man",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Mutant",
@@ -6853,7 +6853,7 @@
   {
     "ID": 527,
     "Name": "Predator",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Yautja",
@@ -6866,7 +6866,7 @@
   {
     "ID": 528,
     "Name": "Professor X",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Mutant",
@@ -6879,7 +6879,7 @@
   {
     "ID": 529,
     "Name": "Professor Zoom",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Human",
@@ -6892,7 +6892,7 @@
   {
     "ID": 530,
     "Name": "Proto-Goblin",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "green",
     "Race": "Unknown",
@@ -6905,7 +6905,7 @@
   {
     "ID": 531,
     "Name": "Psylocke",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Mutant",
@@ -6918,7 +6918,7 @@
   {
     "ID": 532,
     "Name": "Punisher",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Human",
@@ -6931,7 +6931,7 @@
   {
     "ID": 533,
     "Name": "Purple Man",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "purple",
     "Race": "Human",
@@ -6944,7 +6944,7 @@
   {
     "ID": 534,
     "Name": "Pyro",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -6970,7 +6970,7 @@
   {
     "ID": 536,
     "Name": "Quantum",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -6983,7 +6983,7 @@
   {
     "ID": 537,
     "Name": "Question",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Human",
@@ -6996,7 +6996,7 @@
   {
     "ID": 538,
     "Name": "Quicksilver",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Mutant",
@@ -7009,7 +7009,7 @@
   {
     "ID": 539,
     "Name": "Quill",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Unknown",
@@ -7022,7 +7022,7 @@
   {
     "ID": 540,
     "Name": "Ra's Al Ghul",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "green",
     "Race": "Human",
@@ -7035,7 +7035,7 @@
   {
     "ID": 541,
     "Name": "Rachel Pirzad",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "Unknown",
     "Race": "Alpha",
@@ -7048,7 +7048,7 @@
   {
     "ID": 542,
     "Name": "Rambo",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Human",
@@ -7061,7 +7061,7 @@
   {
     "ID": 543,
     "Name": "Raphael",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Mutant",
@@ -7087,7 +7087,7 @@
   {
     "ID": 545,
     "Name": "Ray",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "green",
     "Race": "Human",
@@ -7100,7 +7100,7 @@
   {
     "ID": 546,
     "Name": "Razor-Fist II",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -7113,7 +7113,7 @@
   {
     "ID": 547,
     "Name": "Red Arrow",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "green",
     "Race": "Human",
@@ -7152,7 +7152,7 @@
   {
     "ID": 550,
     "Name": "Red Mist",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -7165,7 +7165,7 @@
   {
     "ID": 551,
     "Name": "Red Robin",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Human",
@@ -7178,7 +7178,7 @@
   {
     "ID": 552,
     "Name": "Red Skull",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -7191,7 +7191,7 @@
   {
     "ID": 553,
     "Name": "Red Tornado",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "green",
     "Race": "Android",
@@ -7204,7 +7204,7 @@
   {
     "ID": 554,
     "Name": "Redeemer II",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -7217,7 +7217,7 @@
   {
     "ID": 555,
     "Name": "Redeemer III",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -7230,7 +7230,7 @@
   {
     "ID": 556,
     "Name": "Renata Soliz",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -7243,7 +7243,7 @@
   {
     "ID": 557,
     "Name": "Rey",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "hazel",
     "Race": "Human",
@@ -7256,7 +7256,7 @@
   {
     "ID": 558,
     "Name": "Rhino",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Human / Radiation",
@@ -7269,7 +7269,7 @@
   {
     "ID": 559,
     "Name": "Rick Flag",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -7282,7 +7282,7 @@
   {
     "ID": 560,
     "Name": "Riddler",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -7295,7 +7295,7 @@
   {
     "ID": 561,
     "Name": "Rip Hunter",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Human",
@@ -7308,7 +7308,7 @@
   {
     "ID": 562,
     "Name": "Ripcord",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "green",
     "Race": "Unknown",
@@ -7321,7 +7321,7 @@
   {
     "ID": 563,
     "Name": "Robin",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Human",
@@ -7334,7 +7334,7 @@
   {
     "ID": 564,
     "Name": "Robin II",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Human",
@@ -7347,7 +7347,7 @@
   {
     "ID": 565,
     "Name": "Robin III",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Human",
@@ -7360,7 +7360,7 @@
   {
     "ID": 566,
     "Name": "Robin V",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Human",
@@ -7386,7 +7386,7 @@
   {
     "ID": 568,
     "Name": "Rocket Raccoon",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Animal",
@@ -7399,7 +7399,7 @@
   {
     "ID": 569,
     "Name": "Rogue",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "green",
     "Race": "Unknown",
@@ -7412,7 +7412,7 @@
   {
     "ID": 570,
     "Name": "Ronin",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Human",
@@ -7425,7 +7425,7 @@
   {
     "ID": 571,
     "Name": "Rorschach",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Human",
@@ -7438,7 +7438,7 @@
   {
     "ID": 572,
     "Name": "Sabretooth",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "amber",
     "Race": "Mutant",
@@ -7451,7 +7451,7 @@
   {
     "ID": 573,
     "Name": "Sage",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -7477,7 +7477,7 @@
   {
     "ID": 575,
     "Name": "Sasquatch",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "red",
     "Race": "Unknown",
@@ -7490,7 +7490,7 @@
   {
     "ID": 576,
     "Name": "Sauron",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Maiar",
@@ -7503,7 +7503,7 @@
   {
     "ID": 577,
     "Name": "Savage Dragon",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -7516,7 +7516,7 @@
   {
     "ID": 578,
     "Name": "Scarecrow",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Human",
@@ -7529,7 +7529,7 @@
   {
     "ID": 579,
     "Name": "Scarlet Spider",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Human",
@@ -7542,7 +7542,7 @@
   {
     "ID": 580,
     "Name": "Scarlet Spider II",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Clone",
@@ -7555,7 +7555,7 @@
   {
     "ID": 581,
     "Name": "Scarlet Witch",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Mutant",
@@ -7568,7 +7568,7 @@
   {
     "ID": 582,
     "Name": "Scorpia",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Female",
     "EyeColor": "green",
     "Race": "Unknown",
@@ -7581,7 +7581,7 @@
   {
     "ID": 583,
     "Name": "Scorpion",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Human",
@@ -7594,7 +7594,7 @@
   {
     "ID": 584,
     "Name": "Sebastian Shaw",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Mutant",
@@ -7620,7 +7620,7 @@
   {
     "ID": 586,
     "Name": "Shadow King",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Unknown",
     "EyeColor": "red",
     "Race": "Unknown",
@@ -7633,7 +7633,7 @@
   {
     "ID": 587,
     "Name": "Shadow Lass",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "black",
     "Race": "Talokite",
@@ -7646,7 +7646,7 @@
   {
     "ID": 588,
     "Name": "Shadowcat",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "hazel",
     "Race": "Mutant",
@@ -7659,7 +7659,7 @@
   {
     "ID": 589,
     "Name": "Shang-Chi",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Human",
@@ -7672,7 +7672,7 @@
   {
     "ID": 590,
     "Name": "Shatterstar",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Unknown",
@@ -7685,7 +7685,7 @@
   {
     "ID": 591,
     "Name": "She-Hulk",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "green",
     "Race": "Human",
@@ -7698,7 +7698,7 @@
   {
     "ID": 592,
     "Name": "She-Thing",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Human / Radiation",
@@ -7711,7 +7711,7 @@
   {
     "ID": 593,
     "Name": "Shocker",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Human",
@@ -7724,7 +7724,7 @@
   {
     "ID": 594,
     "Name": "Shriek",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "yellow / blue",
     "Race": "Unknown",
@@ -7737,7 +7737,7 @@
   {
     "ID": 595,
     "Name": "Shrinking Violet",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -7750,7 +7750,7 @@
   {
     "ID": 596,
     "Name": "Sif",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Asgardian",
@@ -7763,7 +7763,7 @@
   {
     "ID": 597,
     "Name": "Silk",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "brown",
     "Race": "Human",
@@ -7776,7 +7776,7 @@
   {
     "ID": 598,
     "Name": "Silk Spectre",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -7789,7 +7789,7 @@
   {
     "ID": 599,
     "Name": "Silk Spectre II",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -7802,7 +7802,7 @@
   {
     "ID": 600,
     "Name": "Silver Surfer",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "white",
     "Race": "Alien",
@@ -7815,7 +7815,7 @@
   {
     "ID": 601,
     "Name": "Silverclaw",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "brown",
     "Race": "Unknown",
@@ -7828,7 +7828,7 @@
   {
     "ID": 602,
     "Name": "Simon Baz",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "bown",
     "Race": "Human",
@@ -7854,7 +7854,7 @@
   {
     "ID": 604,
     "Name": "Siren",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Atlantean",
@@ -7867,7 +7867,7 @@
   {
     "ID": 605,
     "Name": "Siren II",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Female",
     "EyeColor": "black",
     "Race": "Unknown",
@@ -7880,7 +7880,7 @@
   {
     "ID": 606,
     "Name": "Siryn",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -7893,7 +7893,7 @@
   {
     "ID": 607,
     "Name": "Skaar",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "green",
     "Race": "Unknown",
@@ -7906,7 +7906,7 @@
   {
     "ID": 608,
     "Name": "Snake-Eyes",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Animal",
@@ -7919,7 +7919,7 @@
   {
     "ID": 609,
     "Name": "Snowbird",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "white",
     "Race": "Unknown",
@@ -7932,7 +7932,7 @@
   {
     "ID": 610,
     "Name": "Sobek",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "white",
     "Race": "Unknown",
@@ -7945,7 +7945,7 @@
   {
     "ID": 611,
     "Name": "Solomon Grundy",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "black",
     "Race": "Zombie",
@@ -7958,7 +7958,7 @@
   {
     "ID": 612,
     "Name": "Songbird",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "green",
     "Race": "Unknown",
@@ -7971,7 +7971,7 @@
   {
     "ID": 613,
     "Name": "Space Ghost",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Human",
@@ -7984,7 +7984,7 @@
   {
     "ID": 614,
     "Name": "Spawn",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Demon",
@@ -7997,7 +7997,7 @@
   {
     "ID": 615,
     "Name": "Spectre",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "white",
     "Race": "God / Eternal",
@@ -8010,7 +8010,7 @@
   {
     "ID": 616,
     "Name": "Speedball",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -8023,7 +8023,7 @@
   {
     "ID": 617,
     "Name": "Speedy",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Human",
@@ -8036,7 +8036,7 @@
   {
     "ID": 618,
     "Name": "Speedy",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "green",
     "Race": "Human",
@@ -8049,7 +8049,7 @@
   {
     "ID": 619,
     "Name": "Spider-Carnage",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Symbiote",
@@ -8062,7 +8062,7 @@
   {
     "ID": 620,
     "Name": "Spider-Girl",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Human",
@@ -8075,7 +8075,7 @@
   {
     "ID": 621,
     "Name": "Spider-Gwen",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Human",
@@ -8088,7 +8088,7 @@
   {
     "ID": 622,
     "Name": "Spider-Man",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "hazel",
     "Race": "Human",
@@ -8101,7 +8101,7 @@
   {
     "ID": 623,
     "Name": "Spider-Man",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Unknown",
     "EyeColor": "red",
     "Race": "Human",
@@ -8114,7 +8114,7 @@
   {
     "ID": 624,
     "Name": "Spider-Man",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Human",
@@ -8127,7 +8127,7 @@
   {
     "ID": 625,
     "Name": "Spider-Woman",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "green",
     "Race": "Human",
@@ -8140,7 +8140,7 @@
   {
     "ID": 626,
     "Name": "Spider-Woman II",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -8153,7 +8153,7 @@
   {
     "ID": 627,
     "Name": "Spider-Woman III",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "brown",
     "Race": "Unknown",
@@ -8166,7 +8166,7 @@
   {
     "ID": 628,
     "Name": "Spider-Woman IV",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Female",
     "EyeColor": "red",
     "Race": "Unknown",
@@ -8179,7 +8179,7 @@
   {
     "ID": 629,
     "Name": "Spock",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Human-Vulcan",
@@ -8192,7 +8192,7 @@
   {
     "ID": 630,
     "Name": "Spyke",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Mutant",
@@ -8205,7 +8205,7 @@
   {
     "ID": 631,
     "Name": "Stacy X",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -8218,7 +8218,7 @@
   {
     "ID": 632,
     "Name": "Star-Lord",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Human-Spartoi",
@@ -8231,7 +8231,7 @@
   {
     "ID": 633,
     "Name": "Stardust",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -8244,7 +8244,7 @@
   {
     "ID": 634,
     "Name": "Starfire",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "green",
     "Race": "Tamaranean",
@@ -8257,7 +8257,7 @@
   {
     "ID": 635,
     "Name": "Stargirl",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Human",
@@ -8270,7 +8270,7 @@
   {
     "ID": 636,
     "Name": "Static",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Mutant",
@@ -8283,7 +8283,7 @@
   {
     "ID": 637,
     "Name": "Steel",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Unknown",
@@ -8296,7 +8296,7 @@
   {
     "ID": 638,
     "Name": "Stephanie Powell",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -8309,7 +8309,7 @@
   {
     "ID": 639,
     "Name": "Steppenwolf",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "red",
     "Race": "New God",
@@ -8322,7 +8322,7 @@
   {
     "ID": 640,
     "Name": "Storm",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Mutant",
@@ -8335,7 +8335,7 @@
   {
     "ID": 641,
     "Name": "Stormtrooper",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Human",
@@ -8348,7 +8348,7 @@
   {
     "ID": 642,
     "Name": "Sunspot",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Mutant",
@@ -8361,7 +8361,7 @@
   {
     "ID": 643,
     "Name": "Superboy",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -8374,7 +8374,7 @@
   {
     "ID": 644,
     "Name": "Superboy-Prime",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Kryptonian",
@@ -8387,7 +8387,7 @@
   {
     "ID": 645,
     "Name": "Supergirl",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Kryptonian",
@@ -8400,7 +8400,7 @@
   {
     "ID": 646,
     "Name": "Superman",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Kryptonian",
@@ -8413,7 +8413,7 @@
   {
     "ID": 647,
     "Name": "Swamp Thing",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "red",
     "Race": "God / Eternal",
@@ -8426,7 +8426,7 @@
   {
     "ID": 648,
     "Name": "Swarm",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "yellow",
     "Race": "Mutant",
@@ -8439,7 +8439,7 @@
   {
     "ID": 649,
     "Name": "Sylar",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -8452,7 +8452,7 @@
   {
     "ID": 650,
     "Name": "Synch",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Unknown",
@@ -8465,7 +8465,7 @@
   {
     "ID": 651,
     "Name": "T-1000",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Android",
@@ -8478,7 +8478,7 @@
   {
     "ID": 652,
     "Name": "T-800",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "red",
     "Race": "Cyborg",
@@ -8491,7 +8491,7 @@
   {
     "ID": 653,
     "Name": "T-850",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "red",
     "Race": "Cyborg",
@@ -8504,7 +8504,7 @@
   {
     "ID": 654,
     "Name": "T-X",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Female",
     "EyeColor": "Unknown",
     "Race": "Cyborg",
@@ -8517,7 +8517,7 @@
   {
     "ID": 655,
     "Name": "Taskmaster",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Human",
@@ -8530,7 +8530,7 @@
   {
     "ID": 656,
     "Name": "Tempest",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "brown",
     "Race": "Unknown",
@@ -8543,7 +8543,7 @@
   {
     "ID": 657,
     "Name": "Thanos",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "red",
     "Race": "Eternal",
@@ -8556,7 +8556,7 @@
   {
     "ID": 658,
     "Name": "The Cape",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -8582,7 +8582,7 @@
   {
     "ID": 660,
     "Name": "Thing",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Human / Radiation",
@@ -8595,7 +8595,7 @@
   {
     "ID": 661,
     "Name": "Thor",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Asgardian",
@@ -8608,7 +8608,7 @@
   {
     "ID": 662,
     "Name": "Thor Girl",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Asgardian",
@@ -8621,7 +8621,7 @@
   {
     "ID": 663,
     "Name": "Thunderbird",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Unknown",
@@ -8634,7 +8634,7 @@
   {
     "ID": 664,
     "Name": "Thunderbird II",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -8647,7 +8647,7 @@
   {
     "ID": 665,
     "Name": "Thunderbird III",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Unknown",
@@ -8660,7 +8660,7 @@
   {
     "ID": 666,
     "Name": "Thunderstrike",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -8673,7 +8673,7 @@
   {
     "ID": 667,
     "Name": "Thundra",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "green",
     "Race": "Unknown",
@@ -8686,7 +8686,7 @@
   {
     "ID": 668,
     "Name": "Tiger Shark",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "grey",
     "Race": "Human",
@@ -8699,7 +8699,7 @@
   {
     "ID": 669,
     "Name": "Tigra",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "green",
     "Race": "Unknown",
@@ -8712,7 +8712,7 @@
   {
     "ID": 670,
     "Name": "Tinkerer",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Unknown",
@@ -8725,7 +8725,7 @@
   {
     "ID": 671,
     "Name": "Titan",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -8751,7 +8751,7 @@
   {
     "ID": 673,
     "Name": "Toxin",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Symbiote",
@@ -8764,7 +8764,7 @@
   {
     "ID": 674,
     "Name": "Toxin",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "black",
     "Race": "Symbiote",
@@ -8777,7 +8777,7 @@
   {
     "ID": 675,
     "Name": "Tracy Strauss",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -8803,7 +8803,7 @@
   {
     "ID": 677,
     "Name": "Trigon",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "yellow",
     "Race": "God / Eternal",
@@ -8816,7 +8816,7 @@
   {
     "ID": 678,
     "Name": "Triplicate Girl",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "purple",
     "Race": "Unknown",
@@ -8829,7 +8829,7 @@
   {
     "ID": 679,
     "Name": "Triton",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "green",
     "Race": "Inhuman",
@@ -8842,7 +8842,7 @@
   {
     "ID": 680,
     "Name": "Two-Face",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -8855,7 +8855,7 @@
   {
     "ID": 681,
     "Name": "Ultragirl",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -8868,7 +8868,7 @@
   {
     "ID": 682,
     "Name": "Ultron",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "red",
     "Race": "Android",
@@ -8881,7 +8881,7 @@
   {
     "ID": 683,
     "Name": "Utgard-Loki",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Frost Giant",
@@ -8894,7 +8894,7 @@
   {
     "ID": 684,
     "Name": "Vagabond",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -8907,7 +8907,7 @@
   {
     "ID": 685,
     "Name": "Valerie Hart",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "hazel",
     "Race": "Unknown",
@@ -8920,7 +8920,7 @@
   {
     "ID": 686,
     "Name": "Valkyrie",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -8933,7 +8933,7 @@
   {
     "ID": 687,
     "Name": "Vanisher",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "green",
     "Race": "Unknown",
@@ -8946,7 +8946,7 @@
   {
     "ID": 688,
     "Name": "Vegeta",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Saiyan",
@@ -8959,7 +8959,7 @@
   {
     "ID": 689,
     "Name": "Venom",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Symbiote",
@@ -8972,7 +8972,7 @@
   {
     "ID": 690,
     "Name": "Venom II",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Unknown",
@@ -8985,7 +8985,7 @@
   {
     "ID": 691,
     "Name": "Venom III",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Symbiote",
@@ -9011,7 +9011,7 @@
   {
     "ID": 693,
     "Name": "Vertigo II",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -9024,7 +9024,7 @@
   {
     "ID": 694,
     "Name": "Vibe",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Human",
@@ -9037,7 +9037,7 @@
   {
     "ID": 695,
     "Name": "Vindicator",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "green",
     "Race": "Human",
@@ -9050,7 +9050,7 @@
   {
     "ID": 696,
     "Name": "Vindicator",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -9063,7 +9063,7 @@
   {
     "ID": 697,
     "Name": "Violator",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -9076,7 +9076,7 @@
   {
     "ID": 698,
     "Name": "Violet Parr",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "violet",
     "Race": "Human",
@@ -9089,7 +9089,7 @@
   {
     "ID": 699,
     "Name": "Vision",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "gold",
     "Race": "Android",
@@ -9102,7 +9102,7 @@
   {
     "ID": 700,
     "Name": "Vision II",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Unknown",
     "EyeColor": "red",
     "Race": "Unknown",
@@ -9115,7 +9115,7 @@
   {
     "ID": 701,
     "Name": "Vixen",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "amber",
     "Race": "Human",
@@ -9128,7 +9128,7 @@
   {
     "ID": 702,
     "Name": "Vulcan",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "black",
     "Race": "Unknown",
@@ -9141,7 +9141,7 @@
   {
     "ID": 703,
     "Name": "Vulture",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Human",
@@ -9154,7 +9154,7 @@
   {
     "ID": 704,
     "Name": "Walrus",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Human",
@@ -9167,7 +9167,7 @@
   {
     "ID": 705,
     "Name": "War Machine",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Human",
@@ -9180,7 +9180,7 @@
   {
     "ID": 706,
     "Name": "Warbird",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -9193,7 +9193,7 @@
   {
     "ID": 707,
     "Name": "Warlock",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "red",
     "Race": "Unknown",
@@ -9206,7 +9206,7 @@
   {
     "ID": 708,
     "Name": "Warp",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Unknown",
@@ -9219,7 +9219,7 @@
   {
     "ID": 709,
     "Name": "Warpath",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Mutant",
@@ -9232,7 +9232,7 @@
   {
     "ID": 710,
     "Name": "Wasp",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Human",
@@ -9245,7 +9245,7 @@
   {
     "ID": 711,
     "Name": "Watcher",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -9258,7 +9258,7 @@
   {
     "ID": 712,
     "Name": "Weapon XI",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -9271,7 +9271,7 @@
   {
     "ID": 713,
     "Name": "White Canary",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Female",
     "EyeColor": "brown",
     "Race": "Human",
@@ -9284,7 +9284,7 @@
   {
     "ID": 714,
     "Name": "White Queen",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -9297,7 +9297,7 @@
   {
     "ID": 715,
     "Name": "Wildfire",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -9310,7 +9310,7 @@
   {
     "ID": 716,
     "Name": "Winter Soldier",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Human",
@@ -9323,7 +9323,7 @@
   {
     "ID": 717,
     "Name": "Wiz Kid",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Unknown",
     "EyeColor": "brown",
     "Race": "Unknown",
@@ -9336,7 +9336,7 @@
   {
     "ID": 718,
     "Name": "Wolfsbane",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "green",
     "Race": "Unknown",
@@ -9349,7 +9349,7 @@
   {
     "ID": 719,
     "Name": "Wolverine",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Mutant",
@@ -9362,7 +9362,7 @@
   {
     "ID": 720,
     "Name": "Wonder Girl",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Demi-God",
@@ -9375,7 +9375,7 @@
   {
     "ID": 721,
     "Name": "Wonder Man",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "red",
     "Race": "Unknown",
@@ -9388,7 +9388,7 @@
   {
     "ID": 722,
     "Name": "Wonder Woman",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Amazon",
@@ -9401,7 +9401,7 @@
   {
     "ID": 723,
     "Name": "Wondra",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "Unknown",
     "Race": "Unknown",
@@ -9414,7 +9414,7 @@
   {
     "ID": 724,
     "Name": "Wyatt Wingfoot",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Unknown",
@@ -9427,7 +9427,7 @@
   {
     "ID": 725,
     "Name": "X-23",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "green",
     "Race": "Mutant / Clone",
@@ -9440,7 +9440,7 @@
   {
     "ID": 726,
     "Name": "X-Man",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -9453,7 +9453,7 @@
   {
     "ID": 727,
     "Name": "Yellow Claw",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Unknown",
@@ -9466,7 +9466,7 @@
   {
     "ID": 728,
     "Name": "Yellowjacket",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "blue",
     "Race": "Human",
@@ -9479,7 +9479,7 @@
   {
     "ID": 729,
     "Name": "Yellowjacket II",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Human",
@@ -9492,7 +9492,7 @@
   {
     "ID": 730,
     "Name": "Ymir",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "white",
     "Race": "Frost Giant",
@@ -9505,7 +9505,7 @@
   {
     "ID": 731,
     "Name": "Yoda",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Male",
     "EyeColor": "brown",
     "Race": "Yoda's species",
@@ -9518,7 +9518,7 @@
   {
     "ID": 732,
     "Name": "Zatanna",
-    "Alignment": "good",
+    "Alignment": "Good",
     "Gender": "Female",
     "EyeColor": "blue",
     "Race": "Human",
@@ -9531,7 +9531,7 @@
   {
     "ID": 733,
     "Name": "Zoom",
-    "Alignment": "bad",
+    "Alignment": "Evil",
     "Gender": "Male",
     "EyeColor": "red",
     "Race": "Unknown",
